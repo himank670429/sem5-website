@@ -1,0 +1,95 @@
+.back-btn{
+    align-self : start;
+    cursor: pointer;
+    margin: 1em;
+    font-size: var(--text-size-small);
+    color : var(--btn-color);
+    font-weight: 700;
+    border : .2em solid var(--btn-color);
+    padding : 1em;
+    border-radius: 1em; 
+    text-decoration: none;
+    transition: color 0.2s ease-in,
+    background-color 0.1s ease-in, 
+    transform 0.1s ease-in;
+}
+
+.back-btn:hover{
+    background-color: var(--btn-color);
+    color : var(--bg-color);
+    transform : scale(1.03);
+}
+.heading{
+    margin : 1rem;
+}
+.book{
+    overflow-y : auto;
+}
+
+.book::-webkit-scrollbar{
+    width: 1rem;
+}
+
+.book::-webkit-scrollbar-thumb{
+    background-color: var(--scroll-thumb-color);
+    border-radius : .5rem;
+}
+
+.book::-webkit-scrollbar-thumb:hover {
+    background-color: var(--scroll-thumb-color-hover); 
+}
+
+.book-item{
+    display: flex;
+    border : .2rem solid var(--border-color);
+    border-radius: 1em;
+    margin : 1em;
+    padding : 1rem;
+    transition: border 0.2s ease-in, transform 0.2s ease-in;
+}
+.book-item:hover{
+    border-color : var(--text-color);
+    transform : scaleX(1.01);
+}
+.book-item .start{
+    display: flex;
+}
+.book-item .start .number{
+    font-size: var(--text-size);
+    display: flex;
+    padding-inline : 1rem;
+    align-items: center;
+}
+.book-item .start img{
+    height: 250px;
+}
+.book-item .start .title{
+    display: flex;
+    align-items: center;
+    padding-inline : 1rem;
+    font-size: var(--text-size);
+}
+.book-item .end{
+    display: flex;
+    align-items: flex-end;
+}
+.book-item .end .btn{
+    align-self : flex-end;
+    cursor: pointer;
+    margin: 1em;
+    font-size: var(--text-size-small);
+    color : var(--btn-color);
+    font-weight: 700;
+    border : .2em solid var(--btn-color);
+    padding : 1em;
+    border-radius: 1em; 
+    text-decoration: none;
+    transition: color 0.2s ease-in,
+    background-color 0.1s ease-in, 
+    transform 0.1s ease-in;
+}
+.book-item .end .btn:hover{
+    background-color: var(--btn-color);
+    color : var(--bg-color);
+    transform : scale(1.03);
+}

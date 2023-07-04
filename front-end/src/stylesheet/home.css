@@ -1,0 +1,64 @@
+.main{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.main .card {
+    display: flex;
+    border: .5rem solid var(--border-color);
+    border-radius: 2rem;
+    margin-inline : .2em;
+    margin-block : 1em;
+    padding : 1em;
+    transition: border 0.2s ease-in, transform 0.2s ease-in;
+}   
+.main .card img{
+    height: 250px;
+    width : 250px;
+    /* border : 1px solid white; */
+}
+
+.main .card .desc{
+    display: flex;
+    font-size: var(--text-size);
+    align-items: center;
+    flex-grow: 1;
+    padding-inline-start: 1rem;
+    color : var(--text-color-dark);
+    transition : color 0.2s ease-in;
+}
+
+.main .card .end{
+    display: flex;
+}
+.main .card .end .btn{
+    align-self : end;
+    cursor: pointer;
+    margin: 1em;
+    font-size: var(--text-size-small);
+    color : var(--btn-color);
+    font-weight: 700;
+    border : .2em solid var(--btn-color);
+    padding : 1em;
+    border-radius: 1em; 
+    text-decoration: none;
+    transition: color 0.2s ease-in,
+    background-color 0.1s ease-in, 
+    transform 0.1s ease-in;
+}
+
+.main .card .end .btn:hover{
+    background-color: var(--btn-color);
+    color : var(--bg-color);
+    transform : scale(1.03);
+}
+
+.main .card:hover{
+    border-color : var(--text-color);
+    transform : scaleX(1.01);
+}
+
+.main .card:hover .desc{
+    color : var(--text-color);
+}
