@@ -4,7 +4,7 @@ export const DataContext = createContext();
 export default function DataProvider({children}){
     const [data, setData] = useState([]);
     useEffect(() => {
-        fetch('/data')
+        fetch('https://sem5-api.onrender.com/data')
         .then(res => res.json())
         .then(data => {
             setData(data)
