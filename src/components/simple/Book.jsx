@@ -5,7 +5,7 @@ function Book({img, title, number, view_url, download_url}) {
     <div className='book-item'>
       <div className='start'>
         <span className = 'number'>{number + '.'}</span>
-        <img src = {process.env.PUBLIC_URL + img}></img>
+        <img src = {process.env.PUBLIC_URL + img} alt = 'book cover'></img>
         <span className = 'title'>{title}</span>
       </div>
       <div className = 'end'>
