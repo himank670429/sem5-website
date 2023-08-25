@@ -53,6 +53,7 @@
 }
 .book-item .start{
     display: flex;
+    flex-grow: 1;
 }
 .book-item .start .number{
     font-size: var(--text-size);

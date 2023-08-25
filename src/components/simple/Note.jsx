@@ -18,7 +18,6 @@ function Note({title, view_url, download_url,number}) {
 
 function Notes({notes}){
   let filtered_notes = notes.filter(item => item.url !== "" && item.download !== '')
-  console.log(filtered_notes)
   return (
     <>
     {(filtered_notes.length === 0) 
