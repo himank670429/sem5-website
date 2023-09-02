@@ -9,7 +9,7 @@ function Note({title, view_url, download_url,number}) {
         <span className = "title">{title}</span>
       </div>
       <div className = 'end'>
-        <Link className = "btn" to = {view_url}>view</Link>
+        <Link className = "btn" to = {view_url} target = '_blank'>view</Link>
         <a href = {download_url} className='btn'>download</a>
       </div>
     </div>

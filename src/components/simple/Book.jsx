@@ -9,7 +9,7 @@ function Book({img, title, number, view_url, download_url}) {
         <span className = 'title'>{title}</span>
       </div>
       <div className = 'end'>
-        <Link to = {view_url} className='btn'>view</Link>
+        <Link to = {view_url} className='btn' target = '_blank'>view</Link>
         <a href = {download_url} className='btn'>download</a> 
       </div>
     </div>

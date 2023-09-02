@@ -5,7 +5,7 @@ function Card({desc, img, to, syllabus}) {
         <img src = {process.env.PUBLIC_URL + img} alt = {desc} />
         <span className="desc">{desc}</span>
         <div className="end">
-          <Link to = {syllabus}className="btn">syllabus</Link>
+          <Link to = {syllabus} className="btn" target = '_blank'>syllabus</Link>
           <Link to = {'/books/' + to} className="btn">books</Link>
           <Link to = {'/notes/' + to} className="btn">notes</Link>
         </div>
