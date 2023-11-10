@@ -1,230 +1,121 @@
 [
-  {
-    "name": "Internet of Things",
-    "img": "/images/logo/IOT.png",
-    "syllabus": "https://drive.google.com/file/d/1Df9iXrtJdCGzGSZ-NmWJOzAd02iH_Z7H/view?usp=drive_link",
-    "to": "IOT",
-    "notes": [
-      {
-        "title": "unit-1",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-2",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-3",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-4",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-5",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-6",
-        "url": "",
-        "download": ""
-      }
-    ],
-    "books": [
-      {
-        "book_name": "Learning PHP, MySQL, JavaScript, CSS & HTML5, (Robin Nixon), 3rd Edition, O’Reilly Media",
-        "book_cover": "/images/books/iot/book1.jpg",
-        "book_view_link": "https://drive.google.com/file/d/1D3La38UY0xBbPChj8kVLja7rRaoQP2ju/view?usp=drive_link",
-        "book_download_link": "https://drive.google.com/uc?export=download&id=1D3La38UY0xBbPChj8kVLja7rRaoQP2ju"
-      },
-      {
-        "book_name": "JavaScript and JQuery – Interactive Front-end Web Development, (Jon Duckett), John Wiley and Sons, Inc.",
-        "book_cover": "/images/books/iot/book2.jpg",
-        "book_view_link": "https://drive.google.com/file/d/1_GaE-yaKOKnsmQlfug9aQ8laxos4W45Z/view?usp=drive_link",
-        "book_download_link": "https://drive.google.com/uc?export=download&id=1_GaE-yaKOKnsmQlfug9aQ8laxos4W45Z"
-      },
-      {
-        "book_name": "Web Design with HTML and CSS Digital Classroom, (Jeremy Osborn, Jennifer Smith, and AGI Creative Team), Wiley Publishing, Inc.",
-        "book_cover": "/images/books/iot/book3.jpg",
-        "book_view_link": "https://drive.google.com/file/d/1DFLP9rxOONJHaRpIpluWWuwxqSAuUzyN/view?usp=drive_link",
-        "book_download_link": "https://drive.google.com/uc?export=download&id=1DFLP9rxOONJHaRpIpluWWuwxqSAuUzyN"
-      }
-    ]
-  },
-  {
-    "name": "Data Analysis of Visualization",
-    "img": "/images/logo/DAV.png",
-    "syllabus": "https://drive.google.com/file/d/1Dbv2M7suSENrOyLUXms3G7Unk9iELP3S/view?usp=drive_link",
-    "to": "DAV",
-    "notes": [
-      {
-        "title": "unit-1",
-        "url": "https://drive.google.com/file/d/1qfAuia5LtpYMQRWqWpZcMGY_ugRthqXD/view?usp=drive_link",
-        "download": "https://drive.google.com/uc?export=download&id=1qfAuia5LtpYMQRWqWpZcMGY_ugRthqXD"
-      },
-      {
-        "title": "unit-2",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-3",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-4",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-5",
-        "url": "",
-        "download": ""
-      }
-    ],
-    "books": [
-      {
-        "book_name": "McKinney, W. (2017). Python for Data Analysis: Data Wrangling with Pandas, NumPy and IPython. 2nd edition. O’Reilly Media.",
-        "book_cover": "/images/books/dav/book1.jpg",
-        "book_view_link": "https://drive.google.com/file/d/14BqOL0uXfH2ctvvBuHe7uDn1JBNan1ZY/view?usp=sharing",
-        "book_download_link": "https://drive.google.com/uc?export=download&id=14BqOL0uXfH2ctvvBuHe7uDn1JBNan1ZY"
-      },
-      {
-        "book_name": "O’Neil, C., & Schutt, R. (2013). Doing Data Science: Straight Talk from the Frontline O’Reilly Media",
-        "book_cover": "/images/books/dav/book2.jpg",
-        "book_view_link": "https://drive.google.com/file/d/1dZv3z-UWvfapVrq4gd2Qdgg7QGoY_XSV/view?usp=drive_link",
-        "book_download_link": "https://drive.google.com/uc?export=download&id=1dZv3z-UWvfapVrq4gd2Qdgg7QGoY_XSV"
-      }
-    ]
-  },
-  {
-    "name": "Theory of Computation",
-    "img": "/images/logo/TOC.png",
-    "syllabus": "https://drive.google.com/file/d/1Dmg59X0lLDsn2RTYToqKam6jwcN5PrDW/view?usp=drive_link",
-    "to": "ToC",
-    "notes": [
-      {
-        "title": "unit-1",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-2",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-3",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-4",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-5",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-6",
-        "url": "",
-        "download": ""
-      }
-    ],
-    "books": [
-      {
-        "book_name": "Cohen, D.I.A (2011). Introduction to Computer Theory. 2nd edition. Wiley India.",
-        "book_cover": "/images/books/toc/book1.jpg",
-        "book_view_link": "https://drive.google.com/file/d/1DQpQ9NuoVT0u55eO4HXeWeoyiKxdaYKa/view?usp=drive_link",
-        "book_download_link": "https://drive.google.com/uc?export=download&id=1DQpQ9NuoVT0u55eO4HXeWeoyiKxdaYKa"
-      },
-      {
-        "book_name": "Lewis, H.R & Papadimitriou, H.R. (2002). Elements of the Theory of Computation. 2nd edition. Prentice Hall of India.",
-        "book_cover": "/images/books/toc/book2.jpg",
-        "book_view_link": "https://drive.google.com/file/d/1ZIJnKA8M2NNNzGQxdNRDtHkVymfd4Bqi/view?usp=drive_link",
-        "book_download_link": "https://drive.google.com/uc?export=download&id=1ZIJnKA8M2NNNzGQxdNRDtHkVymfd4Bqi"
-      }
-    ]
-  },
-  {
-    "name": "MicroProcessor",
-    "img": "/images/logo/MP.png",
-    "syllabus": "https://drive.google.com/file/d/1DhJYYhRVxKExmLUmzR-6Fk-vx5uX9iWl/view?usp=drive_link",
-    "to": "MP",
-    "notes": [
-      {
-        "title": "unit-1",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-2",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-3",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-4",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-5",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-6",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-7",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-8",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-9",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-10",
-        "url": "",
-        "download": ""
-      },
-      {
-        "title": "unit-11",
-        "url": "",
-        "download": ""
-      }
-    ],
-    "books": [
-      {
-        "book_name": "Barry B, Brey: The Intel MicroProcessors: Architecture, Programming, and Interfacing. Pearson Education, Eighth Edition",
-        "book_cover": "/images/books/mp/book1.jpg",
-        "book_view_link": "https://drive.google.com/file/d/1DJlCg3dHgK4ZnzUDkQBVcr8T09jlzepm/view?usp=drive_link",
-        "book_download_link": "https://drive.google.com/uc?export=download&id=1DJlCg3dHgK4ZnzUDkQBVcr8T09jlzepm"
-      }
-    ]
-  }
+	{
+		"name": "Internet of Things",
+		"img": "/images/logo/IOT.png",
+		"syllabus": "https://drive.google.com/file/d/1Df9iXrtJdCGzGSZ-NmWJOzAd02iH_Z7H/view?usp=drive_link",
+		"to": "IOT",
+		"playlist": "https://youtube.com/playlist?list=PL6P7wUattCLjT-_xDefLcPLU75D-SSYa2&si=Fnaz8woan3RUjnUt",
+		"pyqs" : [],
+		"books": [
+			{
+				"book_name": "Learning PHP, MySQL, JavaScript, CSS & HTML5, (Robin Nixon), 3rd Edition, O’Reilly Media",
+				"book_cover": "/images/books/iot/book1.jpg",
+				"book_view_link": "https://drive.google.com/file/d/1D3La38UY0xBbPChj8kVLja7rRaoQP2ju/view?usp=drive_link",
+				"book_download_link": "https://drive.google.com/uc?export=download&id=1D3La38UY0xBbPChj8kVLja7rRaoQP2ju"
+			},
+			{
+				"book_name": "JavaScript and JQuery – Interactive Front-end Web Development, (Jon Duckett), John Wiley and Sons, Inc.",
+				"book_cover": "/images/books/iot/book2.jpg",
+				"book_view_link": "https://drive.google.com/file/d/1_GaE-yaKOKnsmQlfug9aQ8laxos4W45Z/view?usp=drive_link",
+				"book_download_link": "https://drive.google.com/uc?export=download&id=1_GaE-yaKOKnsmQlfug9aQ8laxos4W45Z"
+			},
+			{
+				"book_name": "Web Design with HTML and CSS Digital Classroom, (Jeremy Osborn, Jennifer Smith, and AGI Creative Team), Wiley Publishing, Inc.",
+				"book_cover": "/images/books/iot/book3.jpg",
+				"book_view_link": "https://drive.google.com/file/d/1DFLP9rxOONJHaRpIpluWWuwxqSAuUzyN/view?usp=drive_link",
+				"book_download_link": "https://drive.google.com/uc?export=download&id=1DFLP9rxOONJHaRpIpluWWuwxqSAuUzyN"
+			}
+		]
+	},
+	{
+		"name": "Data Analysis of Visualization",
+		"img": "/images/logo/DAV.png",
+		"syllabus": "https://drive.google.com/file/d/1Dbv2M7suSENrOyLUXms3G7Unk9iELP3S/view?usp=drive_link",
+		"to": "DAV",
+		"playlist": "",
+        "pyqs" : [],
+		"books": [
+			{
+				"book_name": "McKinney, W. (2017). Python for Data Analysis: Data Wrangling with Pandas, NumPy and IPython. 2nd edition. O’Reilly Media.",
+				"book_cover": "/images/books/dav/book1.jpg",
+				"book_view_link": "https://drive.google.com/file/d/14BqOL0uXfH2ctvvBuHe7uDn1JBNan1ZY/view?usp=sharing",
+				"book_download_link": "https://drive.google.com/uc?export=download&id=14BqOL0uXfH2ctvvBuHe7uDn1JBNan1ZY"
+			},
+			{
+				"book_name": "O’Neil, C., & Schutt, R. (2013). Doing Data Science: Straight Talk from the Frontline O’Reilly Media",
+				"book_cover": "/images/books/dav/book2.jpg",
+				"book_view_link": "https://drive.google.com/file/d/1dZv3z-UWvfapVrq4gd2Qdgg7QGoY_XSV/view?usp=drive_link",
+				"book_download_link": "https://drive.google.com/uc?export=download&id=1dZv3z-UWvfapVrq4gd2Qdgg7QGoY_XSV"
+			}
+		]
+	},
+	{
+		"name": "Theory of Computation",
+		"img": "/images/logo/TOC.png",
+		"syllabus": "https://drive.google.com/file/d/1Dmg59X0lLDsn2RTYToqKam6jwcN5PrDW/view?usp=drive_link",
+		"to": "ToC",
+		"playlist": "",
+        "pyqs" : [],
+		"books": [
+			{
+				"book_name": "Cohen, D.I.A (2011). Introduction to Computer Theory. 2nd edition. Wiley India.",
+				"book_cover": "/images/books/toc/book1.jpg",
+				"book_view_link": "https://drive.google.com/file/d/1DQpQ9NuoVT0u55eO4HXeWeoyiKxdaYKa/view?usp=drive_link",
+				"book_download_link": "https://drive.google.com/uc?export=download&id=1DQpQ9NuoVT0u55eO4HXeWeoyiKxdaYKa"
+			},
+			{
+				"book_name": "Lewis, H.R & Papadimitriou, H.R. (2002). Elements of the Theory of Computation. 2nd edition. Prentice Hall of India.",
+				"book_cover": "/images/books/toc/book2.jpg",
+				"book_view_link": "https://drive.google.com/file/d/1ZIJnKA8M2NNNzGQxdNRDtHkVymfd4Bqi/view?usp=drive_link",
+				"book_download_link": "https://drive.google.com/uc?export=download&id=1ZIJnKA8M2NNNzGQxdNRDtHkVymfd4Bqi"
+			}
+		]
+	},
+	{
+		"name": "MicroProcessor",
+		"img": "/images/logo/MP.png",
+		"syllabus": "https://drive.google.com/file/d/1DhJYYhRVxKExmLUmzR-6Fk-vx5uX9iWl/view?usp=drive_link",
+		"to": "MP",
+		"playlist": "",
+        "pyqs": [
+			{
+				"name": "2010",
+				"view_link": "https://drive.google.com/file/d/1qkaA4O-nt3OCjl94-FtKmrPRsYNLrLnK/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1qkaA4O-nt3OCjl94-FtKmrPRsYNLrLnK"
+			},
+			{
+				"name": "2015",
+				"view_link": "https://drive.google.com/file/d/1ioy6_BJQUbLVgX__0RNFCUQOa8I_7Gs-/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1ioy6_BJQUbLVgX__0RNFCUQOa8I_7Gs-"
+			},
+			{
+				"name": "2016",
+				"view_link": "https://drive.google.com/file/d/1n3WU5kNrgf0EP2HtaySE73NxOiG7bjmp/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1n3WU5kNrgf0EP2HtaySE73NxOiG7bjmp"
+			},
+			{
+				"name": "2017",
+				"view_link": "https://drive.google.com/file/d/1CXdcPJwxUyzhvYT__NxzJ1fjAJou04C1/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1CXdcPJwxUyzhvYT__NxzJ1fjAJou04C1"
+			},
+			{
+				"name": "2018",
+				"view_link": "https://drive.google.com/file/d/1ZrOUK4Ukbq34CfoTO833MTTgtNZNZnsK/view?usp=sharing",
+				"download_link": "https://drive.google.com/uc?export=download&id=1ZrOUK4Ukbq34CfoTO833MTTgtNZNZnsK"
+			},
+			{
+				"name": "2019",
+				"view_link": "https://drive.google.com/file/d/1IKnI7maaKd-odXf0dALH3dIvHDgLbeHH/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1IKnI7maaKd-odXf0dALH3dIvHDgLbeHH"
+			}
+		],
+		"books": [
+			{
+				"book_name": "Barry B, Brey: The Intel MicroProcessors: Architecture, Programming, and Interfacing. Pearson Education, Eighth Edition",
+				"book_cover": "/images/books/mp/book1.jpg",
+				"book_view_link": "https://drive.google.com/file/d/1DJlCg3dHgK4ZnzUDkQBVcr8T09jlzepm/view?usp=drive_link",
+				"book_download_link": "https://drive.google.com/uc?export=download&id=1DJlCg3dHgK4ZnzUDkQBVcr8T09jlzepm"
+			}
+		]
+	}
 ]
