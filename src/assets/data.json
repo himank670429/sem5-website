@@ -5,7 +5,28 @@
 		"syllabus": "https://drive.google.com/file/d/1Df9iXrtJdCGzGSZ-NmWJOzAd02iH_Z7H/view?usp=drive_link",
 		"to": "IOT",
 		"playlist": "https://youtube.com/playlist?list=PL6P7wUattCLjT-_xDefLcPLU75D-SSYa2&si=Fnaz8woan3RUjnUt",
-		"pyqs" : [],
+		"pyqs": [
+			{
+				"name": "2015",
+				"view_link": "https://drive.google.com/file/d/1R3kCaB6VSiu4eBRxzvFxDkDYlVNVBWqc/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1R3kCaB6VSiu4eBRxzvFxDkDYlVNVBWqc"
+			},
+			{
+				"name": "2016",
+				"view_link": "https://drive.google.com/file/d/1on0st-cIznKOhxtdNVbwH_soTeRw020b/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1on0st-cIznKOhxtdNVbwH_soTeRw020b"
+			},
+			{
+				"name": "2017",
+				"view_link": "https://drive.google.com/file/d/1TN00PhYs20OH9FbkrWp4EIvpTudRgWpL/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1TN00PhYs20OH9FbkrWp4EIvpTudRgWpL"
+			},
+			{
+				"name": "2018",
+				"view_link": "https://drive.google.com/file/d/1B7eEu9XVarykjQ6wMcBVM3iOjEgypNC2/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1B7eEu9XVarykjQ6wMcBVM3iOjEgypNC2"
+			}
+		],
 		"books": [
 			{
 				"book_name": "Learning PHP, MySQL, JavaScript, CSS & HTML5, (Robin Nixon), 3rd Edition, O’Reilly Media",
@@ -33,7 +54,7 @@
 		"syllabus": "https://drive.google.com/file/d/1Dbv2M7suSENrOyLUXms3G7Unk9iELP3S/view?usp=drive_link",
 		"to": "DAV",
 		"playlist": "",
-        "pyqs" : [],
+		"pyqs": [],
 		"books": [
 			{
 				"book_name": "McKinney, W. (2017). Python for Data Analysis: Data Wrangling with Pandas, NumPy and IPython. 2nd edition. O’Reilly Media.",
@@ -55,7 +76,33 @@
 		"syllabus": "https://drive.google.com/file/d/1Dmg59X0lLDsn2RTYToqKam6jwcN5PrDW/view?usp=drive_link",
 		"to": "ToC",
 		"playlist": "https://youtube.com/playlist?list=PL6P7wUattCLi2nKHSDIXiLEHrIZFTmK0r&si=hHjvPkqOBkV0jWLM",
-        "pyqs" : [],
+		"pyqs": [
+			{
+				"name": "2010",
+				"view_link": "https://drive.google.com/file/d/12XqhKYH1WOy8PS-yh0e28huwCYboOSzO/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=12XqhKYH1WOy8PS-yh0e28huwCYboOSzO"
+			},
+			{
+				"name": "2015",
+				"view_link": "https://drive.google.com/file/d/1b8V0W7E7Jdl61G8okOUuzSNIcvHok0Lj/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1b8V0W7E7Jdl61G8okOUuzSNIcvHok0Lj"
+			},
+			{
+				"name": "2016",
+				"view_link": "https://drive.google.com/file/d/1tMi0NMxt2tMpS5StWVzU0IyuthRk5AVE/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1tMi0NMxt2tMpS5StWVzU0IyuthRk5AVE"
+			},
+			{
+				"name": "2017",
+				"view_link": "https://drive.google.com/file/d/1upUDEX3a-GuYOWocuQtDM-a2CwX0a50J/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1upUDEX3a-GuYOWocuQtDM-a2CwX0a50J"
+			},
+			{
+				"name": "2018",
+				"view_link": "https://drive.google.com/file/d/16tcuS_4YC4_S8r8YBSpC305zukF8fJ6C/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=16tcuS_4YC4_S8r8YBSpC305zukF8fJ6C"
+			}
+		],
 		"books": [
 			{
 				"book_name": "Cohen, D.I.A (2011). Introduction to Computer Theory. 2nd edition. Wiley India.",
@@ -77,7 +124,7 @@
 		"syllabus": "https://drive.google.com/file/d/1DhJYYhRVxKExmLUmzR-6Fk-vx5uX9iWl/view?usp=drive_link",
 		"to": "MP",
 		"playlist": "https://youtube.com/playlist?list=PL6P7wUattCLhxGLTMUHV70oa9ZLnRBr6b&si=rnrmi3SXVMIX3HTs",
-        "pyqs": [
+		"pyqs": [
 			{
 				"name": "2010",
 				"view_link": "https://drive.google.com/file/d/1qkaA4O-nt3OCjl94-FtKmrPRsYNLrLnK/view?usp=drive_link",
