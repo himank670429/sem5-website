@@ -54,7 +54,13 @@
 		"syllabus": "https://drive.google.com/file/d/1Dbv2M7suSENrOyLUXms3G7Unk9iELP3S/view?usp=drive_link",
 		"to": "DAV",
 		"playlist": "",
-		"pyqs": [],
+		"pyqs": [
+			{
+				"name : 2022",
+				"view_link": "https://drive.google.com/file/d/1WtDD2GDgoARdAz6tauRzA_bcsqgl5qOi/view?usp=drive_link",
+				"download_link": "https://drive.google.com/uc?export=download&id=1WtDD2GDgoARdAz6tauRzA_bcsqgl5qOi"
+			}
+		],
 		"books": [
 			{
 				"book_name": "McKinney, W. (2017). Python for Data Analysis: Data Wrangling with Pandas, NumPy and IPython. 2nd edition. O’Reilly Media.",
