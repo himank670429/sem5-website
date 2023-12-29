@@ -15,7 +15,8 @@ function Home() {
 						img={item.img}
 						to={item.to}
 						syllabus={item.syllabus}
-            playlist={item.playlist}
+						notes={item.notes}
+						playlist={item.playlist}
 					/>
 				))
 			)}

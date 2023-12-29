@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-function Card({ desc, img, to, syllabus, playlist }) {
+function Card({ desc, img, to, syllabus, playlist, notes }) {
 	return (
 		<div className="card">
 			<img src={process.env.PUBLIC_URL + img} alt={desc} />
@@ -20,9 +20,14 @@ function Card({ desc, img, to, syllabus, playlist }) {
 						playlist
 					</Link>
 				)}
-        <Link to = {'/pyqs/' + to} className="btn">
-          PYQS
-        </Link>
+				<Link to={"/pyqs/" + to} className="btn">
+					PYQS
+				</Link>
+				{notes && 
+				<Link to={notes} className="btn">
+					notes
+				</Link>
+				}
 			</div>
 		</div>
 	);
